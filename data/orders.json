@@ -1,0 +1,104 @@
+[
+    {
+        "id_pesanan": "ORD-6a09a587644ad",
+        "email": "budi@email.com",
+        "alamat": "Serayu",
+        "items": {
+            "PRD-001": "1"
+        },
+        "total_bayar": 170000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-17 13:24:55"
+    },
+    {
+        "id_pesanan": "ORD-6a09a624157ec",
+        "email": "budi@email.com",
+        "alamat": "Serayu",
+        "items": {
+            "PRD-001": "1",
+            "PRD-002": "2"
+        },
+        "total_bayar": 650000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-17 13:27:32"
+    },
+    {
+        "id_pesanan": "ORD-6a09a687c5e40",
+        "email": "budi@email.com",
+        "alamat": "Serayu",
+        "items": {
+            "PRD-001": "8",
+            "PRD-002": "3"
+        },
+        "total_bayar": 1755000,
+        "status": "Dikirim",
+        "tanggal": "2026-05-17 13:29:11"
+    },
+    {
+        "id_pesanan": "ORD-6a09b7b8d05a5",
+        "email": "budi@email.com",
+        "alamat": "Serayu",
+        "items": {
+            "PRD-003": "1"
+        },
+        "total_bayar": 70000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-17 14:42:32"
+    },
+    {
+        "id_pesanan": "ORD-6a09b83c4a148",
+        "email": "budi@email.com",
+        "alamat": "Serayu",
+        "items": {
+            "PRD-001": "4"
+        },
+        "total_bayar": 600000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-17 14:44:44"
+    },
+    {
+        "id_pesanan": "ORD-6a09b8fcbc2cb",
+        "email": "budi@email.com",
+        "alamat": "Serayu",
+        "items": {
+            "PRD-002": "5"
+        },
+        "total_bayar": 1125000,
+        "status": "Dikirim",
+        "tanggal": "2026-05-17 14:47:56"
+    },
+    {
+        "id_pesanan": "ORD-6a09bf68d88d4",
+        "email": "budi@email.com",
+        "alamat": "&lt;script&gt;alert(&quot;Sistem Teretas!&quot;)&lt;\/script&gt;",
+        "items": {
+            "PRD-003": "2"
+        },
+        "total_bayar": 120000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-17 15:15:20"
+    },
+    {
+        "id_pesanan": "ORD-6a09c2251c12b",
+        "email": "budi@email.com",
+        "alamat": "Serayu",
+        "items": {
+            "PRD-001": 2,
+            "PRD-002": 1
+        },
+        "total_bayar": 550000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-17 15:27:01"
+    },
+    {
+        "id_pesanan": "ORD-6a1a46818ef08",
+        "email": "budi@email.com",
+        "alamat": "serayu",
+        "items": {
+            "PRD-001": "2"
+        },
+        "total_bayar": 320000,
+        "status": "Dikirim",
+        "tanggal": "2026-05-30 04:08:01"
+    }
+]

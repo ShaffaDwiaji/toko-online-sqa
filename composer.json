@@ -1,0 +1,6 @@
+{
+    "name": "shaffa/toko-online",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
